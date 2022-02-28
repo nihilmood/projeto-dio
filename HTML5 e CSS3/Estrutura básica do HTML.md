@@ -1,6 +1,7 @@
 ### Estrutura básica do HTLM
 
-<!DOCTYPE html>
+"<!DOCTYPE html>
+
 <html>
   <head>
     <meta>
@@ -8,4 +9,4 @@
   </head>
   <body>
   </body>
-</html>
+</html>"
