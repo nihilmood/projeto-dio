@@ -1,6 +1,5 @@
-# Aprendendo sobre Git/Github 
+# TakeBlip Web Developer
 
-### Links Úteis 
+### Links Úteis
 
-Como utilizar corretamente o [Markdown](https://www.markdownguide.org/basic-syntax/)
-
+GIT - Como utilizar corretamente o [Markdown](https://www.markdownguide.org/basic-syntax/)
