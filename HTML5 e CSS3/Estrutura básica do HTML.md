@@ -1,12 +1,12 @@
-// ### Estrutura básica do HTLM
+ ### Estrutura básica do HTLM
 
-<!DOCTYPE html>
+  <!DOCTYPE html>
 
  <html>
-  <head>
+ <head>
     <meta>
     <title></title>
- </head>
+  </head>
   <body>
   </body>
  </html>

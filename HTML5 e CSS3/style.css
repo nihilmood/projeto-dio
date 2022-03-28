@@ -1,24 +1,60 @@
+/* Define a cor do fundo da página */
 body {
-  background-color: rgb(14, 14, 15);
+  background-color: rgb(0, 0, 0);
+  font-family: Verdana;
+  max-width: 900px;
+  margin: auto;
 }
 
+a {
+  color: black;
+}
+
+.photo {
+  border: 3px solid yellow;
+  border-radius: 15px;
+}
+
+/* Define a cor roxa para a ID e classe (title; section) */
 #title,
 .sections {
   color: blueviolet;
 }
 
-.subsections1 {
+#title {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+/* formatação dos campos "Sobre Mim" e "Redes Sociais" */
+.subsections {
   font-size: 20px;
   font-style: italic;
+  margin: 0;
+  margin-bottom: 15px;
+  text-decoration: underline;
 }
 
-.about {
+/* Define cor de fundo e tamanho do layaout de página da classe "Sobre mim" */
+.about_me {
   background-color: rgb(213, 216, 29);
-  padding: 10px;
+  padding: 15px;
   border: 3px solid black;
-  margin: 10px;
+  margin-bottom: 15px;
+  border-radius: 15px;
 }
 
+.about_text {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.about_image {
+  margin-bottom: 15px;
+  border-radius: 5px;
+  width: 100%;
+}
 .links {
-  color: black;
+  padding-left: 15px;
+  font
 }
